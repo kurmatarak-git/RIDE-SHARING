@@ -1,2 +1,10 @@
-# RIDE-SHARING
- A simple **Ride Sharing System** built using  **Java OOP concepts** such as **abstraction, inheritance, and custom exceptions**.    This project demonstrates how a ride-booking system (like Ola/Uber) can be implemented in a beginner-friendly way
+Java Application
+======================
+This is a simple Java application. This application serves as a basic template for a console application using Java.
+
+# How to run?
+Open the terminal run run the following command to run the Java program 
+
+```sh
+java Main.java
+```
