@@ -51,6 +51,6 @@ This project demonstrates how a ride-booking system (like Ola/Uber) can be imple
 
 
 # Author 
-- Developed by Kurma Tarak Rao
+- Developed by Kurma Rao
 -📧 Email : kurmakunuku45@gmail.com
--GitHub : kurmatarak-git
+-GitHub : kurmarao-git
